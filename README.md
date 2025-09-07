@@ -27,8 +27,8 @@ A JavaScript-based Minecraft clone built with Three.js and Vite. Experience the 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/minecraft-js.git
-cd minecraft-js
+git clone https://github.com/anshuman018/minecraft.git
+cd minecraft
 ```
 
 2. Install dependencies:
